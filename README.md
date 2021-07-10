@@ -1,5 +1,6 @@
 # Matlab_Machine_learning
-Includes Matlab programs for ML -- Also refer Matlab Online Account
+Includes Matlab programs for ML -- Also refer Matlab Online Account:
+This is based on ML Specialization from Coursera - Andrew Ng
 
 - Linear Regression
 - Logistic Regression
